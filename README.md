@@ -18,6 +18,8 @@ Miner = ContentMining()
 
 Miner.main(content)
 
+Alternatively you can run the main.py or the notebook Testing-Works.ipynb to test the algorithm.
+
 # Output
 
 The result of this will be shown in: graph_display.html
