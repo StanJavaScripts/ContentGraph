@@ -11,8 +11,11 @@ Uses Vis.js for visualization
 # How to test run it
 
 from ContentGraph import ContentMining
+
 content = " Enter your full text here"
+
 Miner = ContentMining()
+
 Miner.main(content)
 
 # Output
