@@ -15,4 +15,6 @@ content = " Enter your full text here"
 Miner = ContentMining()
 Miner.main(content)
 
-# The result of this will be shown in: graph_display.html
+# Output
+
+The result of this will be shown in: graph_display.html
