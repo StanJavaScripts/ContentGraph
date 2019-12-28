@@ -18,7 +18,7 @@ Miner = ContentMining()
 
 Miner.main(content)
 
-Alternatively you can run the main.py or the notebook Testing-Works.ipynb to test the algorithm.
+Alternatively you can run the "main.py" or the notebook "Testing-Works.ipynb" to test the algorithm.
 
 # Output
 
