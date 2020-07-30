@@ -16,8 +16,11 @@ Built on python 3.7. Uses SPACY for NLP tasks including named entity recognition
 Enter a document, extract the key information from the document, structure it, and finally organize it into a graph based network visualization.
 
 from ContentGraph import ContentMining
+
 content = " Enter your full text here"
+
 Miner = ContentMining()
+
 Miner.main(content)
 
 Alternatively you can run the "main.py" or the notebook "Testing-Works.ipynb" to test the algorithm.
